@@ -1,7 +1,7 @@
 {
 "companyName": "CHRISdbhr",
-"productName": "PucSoundGame",
-"productVersion": "1.70",
+"productName": "PSG",
+"productVersion": "1.71",
 "dataUrl": "puc-sound-game-webgl.data.unityweb",
 "wasmCodeUrl": "puc-sound-game-webgl.wasm.code.unityweb",
 "wasmFrameworkUrl": "puc-sound-game-webgl.wasm.framework.unityweb",
