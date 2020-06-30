@@ -1,7 +1,7 @@
 {
 "companyName": "CHRISdbhr",
 "productName": "PSG",
-"productVersion": "1.72",
+"productVersion": "1.73",
 "dataUrl": "PUCPR-SoundGame_WebGLBuild.data.unityweb",
 "wasmCodeUrl": "PUCPR-SoundGame_WebGLBuild.wasm.code.unityweb",
 "wasmFrameworkUrl": "PUCPR-SoundGame_WebGLBuild.wasm.framework.unityweb",
@@ -11,5 +11,5 @@
 "backgroundColor": "#000000",
 "developmentBuild": false,
 "multithreading": false,
-"unityVersion": "2019.3.13f1"
+"unityVersion": "2019.4.1f1"
 }
